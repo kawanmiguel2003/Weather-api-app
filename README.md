@@ -1,24 +1,14 @@
-# weather-app
+Aplicativo de previsão do tempo consumindo a API WeatherAPI.
+  A funcionalidade principal deste app é buscar a previsão do momento na cidade digitada, os dados que serão retornados são : Temperatura, Descrição do clica e Umidade.
 
-## Project setup
-```
-npm install
-```
+# Tecnologias 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+-Vue
+-Axios
+-WeatherAPI - https://openweathermap.org/api
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#Execução do projeto
+-npm install
+-npm run serve
+-substituir a chave da api no arquivo App.vue
