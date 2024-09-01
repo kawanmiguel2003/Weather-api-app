@@ -3,12 +3,12 @@ Aplicativo de previsão do tempo consumindo a API WeatherAPI.
 
 # Tecnologias 
 
--Vue
--Axios
--WeatherAPI - https://openweathermap.org/api
+-Vue.
+-Axios.
+-WeatherAPI - https://openweathermap.org/api .
 
 
 #Execução do projeto
--npm install
--npm run serve
--substituir a chave da api no arquivo App.vue
+-npm install.
+-npm run serve.
+-substituir a chave da api no arquivo App.vue.
